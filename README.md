@@ -1,7 +1,16 @@
-# Tauri + Vanilla TS
+# WallBar
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
+WallBar is a small utility to get your current wallpaper opened in either Photos.app or Finder.app.
+This app only supports macOS.
 
-## Recommended IDE Setup
+# Download
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+To download, have a look at the [releases](https://github.com/Yan-Jobs/wallbar/releases/latest)
+
+# Credits
+
+- Apple (SF Icons)
+
+# License
+
+WallBar is licensed under GNU GPLv3
